@@ -38,8 +38,8 @@ $gray: #7f8c8d;				// Asbestos
 $bc-red: #bc0000;
 
 // Font Colors
-$base-background-color: #fff;
-$base-font-color: $dark-gray;
+$base-background-color: rgb(0, 0, 0);
+$base-font-color: $light-gray;
 $action-color: $blue;
 $highlight-color: tint($action-color, 33%);
 
